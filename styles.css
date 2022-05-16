@@ -1,23 +1,18 @@
-section {
-  margin-left: 25px;
-}
-
 div {
   display: inline-block;
+  margin: 25px;
 }
 .hamdi {
   border: 1px solid white;
   box-shadow: inset 5px 4px 8px goldenrod;
   width: 200px;
   height: 200px;
-  margin-left: 10px;
 }
 .muhsin {
   border: 1px solid white;
   box-shadow: 15px 15px 15px 15px grey;
   width: 200px;
   height: 200px;
-  margin-left: 10px;
 }
 
 .issa {
@@ -34,7 +29,6 @@ div {
   box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
   width: 200px;
   height: 200px;
-  margin-left: 10px;
 }
 
 .taboush {
@@ -45,5 +39,4 @@ div {
     12px 12px 12px rgba(0, 0, 0, 0.1);
   width: 200px;
   height: 200px;
-  margin-left: 10px;
 }
